@@ -14,4 +14,6 @@ By dismantling the body of the Switch I was able to access the ribbon cable conn
 ### Result: Failure
 ## Solution 3: Replacement
 My current attempt to fix this issue will be by replacing the left-side railing on the body of the switch. It is possible the component has broken down from wear. Mayhaps I will fix the speaker fabric too.....
+![369125742-4ad2b5a7-7f00-4e06-ad66-0ffbe71e7c48](https://github.com/user-attachments/assets/d4611d80-76ad-4b46-96af-921e5af5d934)
+
 ### Result: N/A
