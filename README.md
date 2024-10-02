@@ -23,3 +23,4 @@ Insert the new component in. The ribbon cable must be carefully fed underneath t
 ![369125742-4ad2b5a7-7f00-4e06-ad66-0ffbe71e7c48](https://github.com/user-attachments/assets/f7b5e5c7-2208-45ad-addf-00fe54401625)
 I aimed to push the cable towards the battery so it would bend upwards and be accessible, then I carefully pulled the cable to the latch and secured it. The Switch was reassembled and tested.
 ### Result: Success
+Notes: In the two weeks since completion of the repair the Switch has been working normally again. Thankfully the repair was successful and I can now use my Switch as usual with no issues from the left railing.
